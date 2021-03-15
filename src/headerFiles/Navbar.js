@@ -7,8 +7,8 @@ export const NavItems = [
     title: "Home",
   },
   {
-    path: "/contect",
-    title: "Contect",
+    path: "/contact",
+    title: "Contact",
     // component: <Starred />,
   },
   {
